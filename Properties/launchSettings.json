@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SRTTR-Language-Tool": {
+      "commandName": "Project",
+      "workingDirectory": "F:\\Documents\\VS2022\\SRTTR-Language-Tool\\bin\\Debug\\net8.0\\test"
+    }
+  }
+}
